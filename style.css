@@ -1,0 +1,33 @@
+*{
+    background-color: aquamarine;
+}
+
+    
+h1{
+    color: burlywood;
+    text-align: center;
+    font-size: 2cm;
+}  
+
+h2{
+    color: coral;
+    text-align: center ;
+    font-size: 2cm;
+}
+
+p{
+    color: darkcyan;
+    text-align: center;
+    font-size: 1.5cm;
+}
+
+img{
+    display: inline;
+    margin: 10px;
+    width: 150px;
+    height: 150px;
+    border-radius: 10px;
+    border: 5px solid darkcyan;
+  
+}
+
